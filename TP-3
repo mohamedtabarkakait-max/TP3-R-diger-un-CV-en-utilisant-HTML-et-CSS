@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>MON cv </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+       
+        
+    <div class="mh">
+         <img src="ana.jpg" width="220" height="220" align ="center">
+        <h1  id="p2"align="center"> MON CV </h2>
+        <h1 id="p1">  Nom  et Prenom : Tabarkakait Mouhamed </h1>
+        <div class="mt">
+            <p> Email :    email@gmail.com</p>
+            <p>telephon :   0711836623 </p>
+            <p>adress :  ouarzazat,maroc</p>
+            <p> date de naissance :   20/09/2007</p>
+        </div>
+        <div class="mr">
+            <h2>formation</h2>
+        <ul>
+            <li>licence en RSI</li>
+            <li>baccalouraet en sience physique</b></li>
+        </ul>
+        </div>
+        <h2>experience</h2>
+        <ul>
+            <li>stage en entreprise (20025)</li>
+            <li>project universitaire</li>
+        </ul>
+        <h2>competence</h2>
+        <p> python <br>htmal <br>programation c </p>
+        
+    </div>
+
+
+
+    </body>
+</html>
